@@ -1,0 +1,11 @@
+riz,4
+ok,4
+yep,4
+qwerr,4
+hi,4
+lol,4
+yep,4
+qwer,4
+cap,12
+haha,12
+test,12
